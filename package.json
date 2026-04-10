@@ -1,12 +1,12 @@
 {
-  "name": "silent-wolf-bot",
+  "name": "KABONG'O bot",
   "version": "2.1.0",
   "description": "A WhatsApp bot using Baileys with auto-restart prefix system and heartbeat monitor",
   "keywords": [
     "whatsapp",
     "bot",
     "baileys",
-    "silent-wolf",
+    "Thomas KABONG'O",
     "auto-restart",
     "prefix",
     "heartbeat",
@@ -22,7 +22,7 @@
     "url": "git+https://github.com/sil3nt-wolf/silentwolf-1.1.6"
   },
   "license": "MIT",
-  "author": "7silent-wolf",
+  "author": "Thomas KABONG'O",
   "type": "module",
   "main": "index.js",
   "directories": {
